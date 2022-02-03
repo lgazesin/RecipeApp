@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690451931980",
+    "project_id": "recipe-19ede",
+    "storage_bucket": "recipe-19ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690451931980:android:f50e3f6137e5cec49065e9",
+        "android_client_info": {
+          "package_name": "com.nexis.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690451931980-ss84d12gfp7cll5h26e0m0saj2t8evo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmYIJ_Qsgj27B41xoZdT62zI6mA2jkw6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690451931980-ss84d12gfp7cll5h26e0m0saj2t8evo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

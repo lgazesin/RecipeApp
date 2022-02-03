@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Recipe</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="login_here">Login Here</string>
+    <string name="mobile1">Mobile</string>
+    <string name="password1">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="register_here">Register Here</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_now">Login Now</string>
+    <string name="change_language1">Change Language</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="password2">Password</string>
+    <string name="change_language">Change Language</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="search_recipe_food">Search Recipe Food</string>
+    <string name="product_name1">Product Name</string>
+    <string name="product_description1">Product Description</string>
+    <string name="product_minute1">Product Minute</string>
+    <string name="update_recipe">Update Recipe</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_minute">Product Minute</string>
+    <string name="upload_recipe">Upload Recipe</string>
+    <string name="category">Category</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="share1">Share</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="information">Information</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="username">User Name</string>
+    <string name="service_start">Service Start</string>
+    <string name="service_stop">Service Stop</string>
+
+
+
+</resources>
